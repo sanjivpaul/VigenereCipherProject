@@ -2,6 +2,21 @@
 
 ### Folder Structure
 
+```bash
+vigenere_cipher_project/
+├── vigenere/
+│   ├── __init__.py
+│   └── cipher.py       # Vigenère cipher logic
+├── cli/
+│   ├── __init__.py
+│   └── main.py         # Command-line interface
+├── gui/
+│   ├── __init__.py
+│   └── app.py          # Tkinter GUI
+├── requirements.txt
+└── README.md
+```
+
 ### Output
 
 ```bash
